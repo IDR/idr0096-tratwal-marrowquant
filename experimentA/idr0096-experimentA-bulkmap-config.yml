@@ -1,0 +1,64 @@
+---
+name: idr0096-tratwal-marrowquant/experimentA
+version: 1
+
+defaults:
+  include: no
+  type: string
+  includeclient: yes
+  visible: yes
+  omitempty: yes
+
+columns:
+
+  - name: Characteristics [Strain]
+    clientname: Strain
+    include: yes
+
+  - name: Characteristics [Organism Part]
+    clientname: Organism Part
+    include: yes
+
+  - name: Comment [Organism Part]
+    clientname: Organism Part Comment
+    include: yes
+
+  - name: Material Type
+    clientname: Material Type
+    include: yes
+
+  - name: Characteristics [Sex]
+    clientname: Sex
+    include: yes
+
+  - name: Characteristics [Age]
+    clientname: Age
+    include: yes
+
+  - name: Experimental Condition [Intervention]
+    clientname: Intervention
+    include: yes
+
+  - name: Comment [Publication Figure]
+    clientname: Publication Figure
+    include: yes
+
+  ######################################################################
+  # mapr groups
+  ######################################################################
+
+  - group:
+      namespace: openmicroscopy.org/mapr/organism
+      columns:
+        - name: Characteristics [Organism]
+          clientname: Organism
+          include: yes
+
+
+
+advanced:
+  ignore_missing_primary_key: yes
+  primary_group_keys:
+    - namespace: openmicroscopy.org/mapr/organism
+      keys:
+        - Organism
