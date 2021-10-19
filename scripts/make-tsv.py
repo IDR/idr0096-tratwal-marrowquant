@@ -23,7 +23,7 @@ full_match = 0
 match_count = 0
 no_match_count = 0
 repeat_check = ""
-annot_file = "/Users/pwalczysko/Work/idr0096-tratwal-marrowquant/experimentA/idr0096-experimentA-assays.csv"
+annot_file = "/Users/pwalczysko/Work/idr0096-tratwal-marrowquant/experimentA/idr0096-experimentA-annotation.csv"
 attachment_file = "/Users/pwalczysko/Work/idr0096-tratwal-marrowquant/experimentA/idr0096-experimentA-filePaths.tsv"
 duplicate_names = ['3DView.avi', '3DView.jpg']
 
@@ -59,15 +59,14 @@ for path in paths:
         bits = path.split('/')
         lenght = len(bits)
         image_name = bits[lenght - 1]
-        print(image_name)
         dupe = False
         if image_name in duplicate_names:
             dupe = True
             image_name = bits[lenght-2]+'\\'+ image_name
         while line and len(line) > 0:
             count2 += 1
-            dataset_name = line.split('	')[0]
-            #dataset_name = "Temp"
+            dataset_name = line.split(',')[0]
+            print(dataset_name)
             if image_name in line:
                 rows.append(['Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:'+dataset_name, path])
                 break
