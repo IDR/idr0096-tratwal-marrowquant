@@ -1,521 +1,199 @@
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/21_D21_RF (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D30_I (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/25_D21_RF (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D35 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/28_D21_RF (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m4 pelvic (20x #2).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3991_d42_m4_LF_1 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D35_I (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3991_d42_m4_LT_1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 4 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3993_d28_m12_LF_2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D35_II (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3993_d28_m12_LT_1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D40 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3993_d28_m12_LT_2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D40_I (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3994_d4_m1_RT_2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m5 lumbar (20x #4).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3995_d35_m3_LF_1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3997_d7_m2_LF_2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4000_d11_m5_LT_1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D5 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4000_d11_m5_LT_2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 5 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4002_d14_m6_LF_1 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_01 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4003_d11_m13_LF_2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_01 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4003_d11_m13_LT_1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m5 pelvic (20x #2).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4003_d11_m13_LT_2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/C1_RT_HE (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_01 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo Cd 2 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo Cd 3 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_03 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo Cd 4 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_03_D13_14 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo Cd 5 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_04_DAB (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_05 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 1 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_05 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 1 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_06 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 2 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_06_DAB (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 3 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_06_DAB (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 3 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_07 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 3 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms2 tail (20x #5).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 5 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_07_DAB (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 5 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms6_D21_RF (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 5 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_07_DAB (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF1 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_08 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 1 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m1 sternum (20x #2).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 1 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RF1 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 2 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RF2 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 2 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RF3 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F8wk St 7 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 3 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd 2 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 4 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RF4 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 4 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 4 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RF5 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 5 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd 3 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F8wk Rpaw 9 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RT1 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F8wk St 6 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd 4 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F8wk St 6 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RT2 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd 5 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F8wk St 8 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F9mo RT 1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F9mo RT 2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RT3 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F9mo RT 3 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RT4 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP-07_3073_WAT_HE (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_09 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP-07_3074_WAT_HE (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RT5 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP-07_3079_WAT_HE (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP-07_4721_WAT_HE (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m2 sternum (20x #2).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP-07_4857_WAT_HE (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 1 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP11_6190_ingWAT (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP11_6191_ingWAT (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m3 pelvic (20x #4).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP11_6191_omWAT (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP11_6192_ingWAT (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m4 lumbar (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/GFP11_6192_omWAT (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 2 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8kw RT 3 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 1 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m5 sternum (20x #2).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 2 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Rpaw 1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 3 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m6 lumbar (20x #7).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 4 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 5 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m7 lumbar (20x #4).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RT 1 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Rpaw 5 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RT 2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RT 4 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m8 lumbar (20x #6).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RT 5 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 St3 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D0_I (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m8 pelvic (20x #4).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D0_II (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D20_I (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m8 sternum (20x #2).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D20_II (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D25_I (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 St5 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D25_II (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms1 lumbar (20x #5).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D0 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms1 tail (20x #5).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D10 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D20 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ms10_D21_RF (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D25 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D30 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d20 Cd-S1 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D30_II (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ms12_D21_RF (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d20 Cd-S2 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms15_D21_RF (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D40_II (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D45_II (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ms17_D21_RF (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ms18_D21_RF (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_02_DAB (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d20 Cd-S3 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_02_DAB (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms2 lumbar (20x #3).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_02_DAB (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_03 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_03 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RF1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_04_DAB (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RF2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_04_DAB (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RF3 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RT 1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_05 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RT 2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RT3 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_06_DAB (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_07_DAB (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RF1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RF2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_08 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RF3 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_08 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_08 (20x_03).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_08_D13_14 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_10 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RT1 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_11 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RT2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_12 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RT3 (20x_02).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_13 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd 1 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_14 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_21 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_22 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_23 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 2 (20x_01).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_24 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 3 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_25 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_26 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 St2 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_27 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_28 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_29 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_30 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_31 (20x).ome.tiff
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Ms1 lumbar.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/21_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/25_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Ms1 tail.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/28_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/3991_d42_m4_LF_1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ms10_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/3991_d42_m4_LT_1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ms11_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/3993_d28_m12_LF_2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ms12_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/3993_d28_m12_LT_1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/3993_d28_m12_LT_2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ms17_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/3994_d4_m1_RT_2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/3995_d35_m3_LF_1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Ms2 lumbar.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/3997_d7_m2_LF_2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Ms2 tail.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/4000_d11_m5_LT_1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Ms6_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/4000_d11_m5_LT_2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/No_mask.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/4002_d14_m6_LF_1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d10 RF1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/4003_d11_m13_LF_2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/4003_d11_m13_LT_1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d10 RF2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d10 RF3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/4003_d11_m13_LT_2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d10 RT 1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/C1_RT_HE.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo Cd 2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d10 RT3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo Cd 3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d13 RF1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo Cd 4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d13 RF2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo Cd 5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d13 RF3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RF 1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d13 RT1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RF 2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d13 RT2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RF 3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d13 RT3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RF 5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd 1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RF1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd 2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RT 1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd 3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RT 2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd 4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RT 3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd 5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RT 4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd-S 1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F18mo RT 5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd-S 2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RCra 6.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd-S 3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RCra 7.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd-S 5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RCra 8.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Rpaw 1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RCra 9.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RF 6.vsi_20x_Series_2_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Rpaw 5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RF 7.vsi_20x_Series_1_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Rtop_paw 4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RH 6.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RH 7.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 Cd-S1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RH 8.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RH 9.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 Cd-S2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RP 6.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 Cd-S3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RP 7.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 LT2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RP 8.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RP 9.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 RT1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk Rpaw 9.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RR 7.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 RT2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RR 8.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RR 9.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 RT3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk Rsca 7.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk Rsca 9.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk St 6.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk St 7.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk St 8.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk Tail 6.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk Tail 7A.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk Tail 7B.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk Tail 8.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk Tail 9.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F9mo RT 1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F9mo RT 2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F9mo RT 3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F9mo RT 4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP-07_3073_WAT_HE.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP-07_3074_WAT_HE.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP-07_3079_WAT_HE.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP-07_4721_WAT_HE.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP-07_4857_WAT_HE.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP11_6190_ingWAT.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP11_6191_ingWAT.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP11_6191_omWAT.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP11_6192_ingWAT.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/GFP11_6192_omWAT.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8kw RT 3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8wk RF 1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8wk RF 2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8wk RF 3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8wk RF 4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8wk RF 5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8wk RT 1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8wk RT 2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8wk RT 4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image8wk RT 5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageRF_D0_I.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageRF_D0_II.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageRF_D20_I.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageRF_D20_II.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageRF_D25_I.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageRF_D25_II.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D0.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D10.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D20.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D25.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D30.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D30_I.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D30_II.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D35.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D35_I.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D35_II.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D40.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D40_I.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D40_II.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D45.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D45_II.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ImageY2R_D5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_01.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_02_DAB.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_03.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_03_D13_14.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_04_DAB.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_05.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_06.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_06_DAB.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_07.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_07_DAB.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_08.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_08_D13_14.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_09.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_10.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_11.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_12.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_13.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_14.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_21.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_22.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_23.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_24.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_25.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_26.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_27.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_28.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_29.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_30.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Image_31.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m1 sternum.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RF1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RF2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RF3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RF4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RF5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RT1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RT2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RT3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RT4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/M18mo RT5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m2 sternum.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m3 lumbar.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m3 pelvic.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m4 lumbar.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m4 pelvic.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m5 lumbar.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m5 pelvic.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m5 sternum.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m6 lumbar.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m6 pelvic.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m7 lumbar.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m7 pelvic.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m8 lumbar.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m8 pelvic.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/m8 sternum.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Ms15_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/ms18_D21_RF.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d10 RT 2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 Cd-S 4.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 St2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 St3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d17 St5.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 LT1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 LT3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 RF1.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 RF2.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/PA d20 RF3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D0.vsi_20x_Series_0_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D0.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_0_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_0_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_0_ROI_3_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_1_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_1_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_1_ROI_3_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_1_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_1_ROI_5_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D20.vsi_20x_Series_1_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D20.vsi_20x_Series_1_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D20.vsi_20x_Series_1_ROI_3_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D20.vsi_20x_Series_1_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D20.vsi_20x_Series_1_ROI_5_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_3_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_5_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D5.vsi_20x_Series_1_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D0.vsi_20x_Series_1_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D0.vsi_20x_Series_1_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D0.vsi_20x_Series_1_ROI_3_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D0.vsi_20x_Series_1_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D10.vsi_20x_Series_1_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D10.vsi_20x_Series_1_ROI_3_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D10.vsi_20x_Series_1_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D15_01.vsi_20x_Series_0_ROI_6_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D15_01.vsi_20x_Series_0_ROI_7_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D15_01.vsi_20x_Series_0_ROI_8_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D15_01.vsi_20x_Series_0_ROI_9_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D20.vsi_20x_Series_3_ROI_10_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D20.vsi_20x_Series_3_ROI_11_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D20.vsi_20x_Series_3_ROI_12_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D20.vsi_20x_Series_3_ROI_13_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D20.vsi_20x_Series_3_ROI_14_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D25.vsi_20x_Series_0_ROI_15_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D25.vsi_20x_Series_0_ROI_17_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D25.vsi_20x_Series_0_ROI_18_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D5.vsi_20x_Series_1_ROI_6_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D5.vsi_20x_Series_1_ROI_9_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_19_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_20_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_21_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_22_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_23_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_24_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_3_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_5_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D15.vsi_20x_Series_1_ROI_7_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D15.vsi_20x_Series_1_ROI_8_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_10_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_11_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_12_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_13_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_14_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D25.vsi_20x_Series_1_ROI_15_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D25.vsi_20x_Series_1_ROI_16_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D10.vsi_20x_Series_0_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D10.vsi_20x_Series_0_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D10.vsi_20x_Series_0_ROI_3_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D10.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_10_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_11_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_12_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_13_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_5_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_6_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_7_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_8_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_9_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D20.vsi_20x_Series_0_ROI_15_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D20.vsi_20x_Series_0_ROI_16_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D20.vsi_20x_Series_0_ROI_17_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_18_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_19_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_20_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_21_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_22_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_23_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_5_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_6_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_7_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_8_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_9_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_12a_01.vsi_20x_Series_1_ROI_1_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_12a_01.vsi_20x_Series_1_ROI_2_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_12a_01.vsi_20x_Series_1_ROI_3_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_12a_01.vsi_20x_Series_1_ROI_4_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_10_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_11_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_7_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_8_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_9_Scaled_4_RGB.tif
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/_Warning_ F8wk RF3.vsi
-Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Temporary	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/_warning_ F8wk RF4.vsi
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/21_D21_RF (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D30_I (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/25_D21_RF (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D35 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/28_D21_RF (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:L4 vertebra	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m4 pelvic (20x #2).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3991_d42_m4_LF_1 (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D35_I (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3991_d42_m4_LT_1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 4 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3993_d28_m12_LF_2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D35_II (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3993_d28_m12_LT_1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D40 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3993_d28_m12_LT_2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D40_I (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/3995_d35_m3_LF_1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4000_d11_m5_LT_1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4000_d11_m5_LT_2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 5 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4002_d14_m6_LF_1 (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4003_d11_m13_LF_2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4003_d11_m13_LT_1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:L4 vertebra	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m5 pelvic (20x #2).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/4003_d11_m13_LT_2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo Cd 2 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo Cd 3 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_03 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo Cd 4 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo Cd 5 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_05 (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_06 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF 3 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_07 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms6_D21_RF (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RF1 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_08 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Sternum	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F8wk St 7 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd 2 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F18mo RT 4 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd 3 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Sternum	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F8wk St 6 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Sternum	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F8wk St 8 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F9mo RT 1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/F9mo RT 2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/M18mo RT3 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_09 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 Cd-S 1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8kw RT 3 (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 1 (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 2 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 3 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:L6 vertebra	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m6 lumbar (20x #7).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 4 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RF 5 (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:L6 vertebra	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m7 lumbar (20x #4).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RT 1 (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RT 2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:L6 vertebra	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/m8 lumbar (20x #6).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image8wk RT 5 (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Sternum	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 St3 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D0_I (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D0_II (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D20_I (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D20_II (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D25_I (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Sternum	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 St5 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageRF_D25_II (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:L6 vertebra	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms1 lumbar (20x #5).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D0 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D20 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ms10_D21_RF (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D25 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D30 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D30_II (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ms12_D21_RF (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms15_D21_RF (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D40_II (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ImageY2R_D45_II (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ms17_D21_RF (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/ms18_D21_RF (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d20 Cd-S3 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:L6 vertebra	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Ms2 lumbar (20x #3).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_03 (20x_03).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RF3 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RT 1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RT 2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d10 RT3 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RF1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RF2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RF3 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Left tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_10 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RT1 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RT2 (20x_01).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d13 RT3 (20x_02).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_21 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_22 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_23 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_24 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_25 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_26 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Sternum	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/PA d17 St2 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_27 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_28 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_29 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_30 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210609-ftp-ome-tiffs/Image_31 (20x).ome.tiff
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RF 6.vsi_20x_Series_2_ROI_1_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/F8wk RF 7.vsi_20x_Series_1_ROI_1_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D0.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_0_ROI_1_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_0_ROI_2_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_0_ROI_3_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D15.vsi_20x_Series_1_ROI_5_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D20.vsi_20x_Series_1_ROI_3_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D20.vsi_20x_Series_1_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D20.vsi_20x_Series_1_ROI_5_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_1_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_2_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_3_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D25.vsi_20x_Series_0_ROI_5_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RF Y2R D5.vsi_20x_Series_1_ROI_1_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D0.vsi_20x_Series_1_ROI_2_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D0.vsi_20x_Series_1_ROI_3_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D0.vsi_20x_Series_1_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D10.vsi_20x_Series_1_ROI_2_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D10.vsi_20x_Series_1_ROI_3_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D10.vsi_20x_Series_1_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D15_01.vsi_20x_Series_0_ROI_6_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D15_01.vsi_20x_Series_0_ROI_7_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D15_01.vsi_20x_Series_0_ROI_8_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D15_01.vsi_20x_Series_0_ROI_9_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_2_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D25.vsi_20x_Series_0_ROI_15_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D25.vsi_20x_Series_0_ROI_17_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D25.vsi_20x_Series_0_ROI_18_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D5.vsi_20x_Series_1_ROI_6_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/RT Y2R D5.vsi_20x_Series_1_ROI_9_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_19_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_20_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_21_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_22_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_23_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D0.vsi_20x_Series_0_ROI_24_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_1_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_2_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_3_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D10.vsi_20x_Series_0_ROI_5_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D15.vsi_20x_Series_1_ROI_7_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D15.vsi_20x_Series_1_ROI_8_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_10_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_11_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_12_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_13_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D20.vsi_20x_Series_1_ROI_14_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D25.vsi_20x_Series_1_ROI_15_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right femur	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/SP Y2R D25.vsi_20x_Series_1_ROI_16_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D10.vsi_20x_Series_0_ROI_1_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D10.vsi_20x_Series_0_ROI_3_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D10.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_10_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_11_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_12_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_13_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_5_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_6_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_7_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_8_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D15_01.vsi_20x_Series_0_ROI_9_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D20.vsi_20x_Series_0_ROI_15_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D20.vsi_20x_Series_0_ROI_16_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D20.vsi_20x_Series_0_ROI_17_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_18_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_19_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_20_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_21_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_22_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D25.vsi_20x_Series_0_ROI_23_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_5_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_6_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_7_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_8_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Right tibia	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/T Y2R D5.vsi_20x_Series_0_ROI_9_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_12a_01.vsi_20x_Series_1_ROI_1_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_12a_01.vsi_20x_Series_1_ROI_2_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_12a_01.vsi_20x_Series_1_ROI_3_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_12a_01.vsi_20x_Series_1_ROI_4_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_10_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_11_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_7_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_8_Scaled_4_RGB.tif
+Project:name:idr0096-tratwal-marrowquant/experimentA/Dataset:name:Tail	/uod/idr/filesets/idr0096-tratwal-marrowquant/20210323-ftp-all-resubmitted/Mouse/Images/Tail_24c_01.vsi_20x_Series_0_ROI_9_Scaled_4_RGB.tif
