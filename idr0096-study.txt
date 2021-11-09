@@ -1,0 +1,277 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.                                                                        
+# STUDY DESCRIPTION SECTION                                                                                                                                    
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details    
+                                                                                                                
+                                                                                                                                    
+Comment[IDR Study Accession]	idr0096          
+                                                                                                                     
+Study Title	Quantification of Bone Marrow Compartments in Histological Sections  
+                                                                                                                          
+Study Type	histology	scanned image	           
+                                                                     
+Study Type Term Source REF	EFO	
+                                                                                                                                
+Study Type Term Accession	EFO_0004094    
+                                                                                                                            
+Study Description	We report the development of a semi-automated image analysis plug-in, MarrowQuant, which employs the open-source software QuPath, to systematically quantify multiple bone components in H&E sections in an unbiased manner. MarrowQuant discerns and quantifies the areas occupied by bone, adipocyte ghosts, hematopoietic cells and the interstitial/microvascular compartment. A separate feature, AdipoQuant, fragments adipocyte ghosts in H&E-stained sections of extramedullary adipose tissue sections to render adipocyte area and size distribution. Quantification of BM hematopoietic cellularity with MarrowQuant lies within the range of scoring by four independent pathologists, while quantification of the total adipocyte area in whole bone sections compares with volumetric measurements.
+                                                                  
+Study Key Words	Bone Marrow	Quantification	Histology	Adipocyte	Pathology	Skeleton	Aplasia	Hematopoietic	QuPath	Mouse	Digital Pathology
+                                                                                                                 
+Study Organism        
+                                                                                                                           
+Study Organism Term Source REF	NCBITaxon  
+                                                                                                                              
+Study Organism Term Accession          
+                                                                                                                          
+Study Experiments Number	2   
+                                                                                                                 
+Study External URL
+
+Study BioImage Archive Accession	        
+                                                                                                                       
+Study Public Release Date	2021-11-10   
+                                                                                                            
+                                                                                                                                    
+# Study Publication   
+                                                                                                                                 
+Study PubMed ID	33071956  
+                                                                                                                              
+Study Publication Title	MarrowQuant in Aging and Aplasia: A Digital Pathology Workflow For Quantification of Bone Marrow Compartments in Histological Sections
+                                                                                                                        
+Study Author List	Tratwal J, Bekri D, Boussema C, Sarkis R, Kunz N, Koliqi T, Rojas-Sutterlin S, Schyrr F, Tavakol DN, Campos V, Scheller EL, Sarro R, Barcena C, Bisig B, Nardi V, de Leval L, Burri O, Naveiras O
+                                                                                                                                
+Study PMC ID	PMC7542184   
+                                                                                                                            
+Study DOI	https://doi.org/10.3389/fendo.2020.00480    
+                                                                                                                        
+                                                                                                                                    
+# Study Contacts              
+                                                                                                              
+Study Person Last Name	Naveiras	Tratwal
+                                                                                                         
+Study Person First Name	Olaia	Josefine
+                                                                                                                                
+Study Person Email	Olaia.Naveiras@unil.ch, olaia.naveiras@epfl.ch	Josefine.Tratwal@unil.ch
+                                                                                                                             
+Study Person Address	EPFL SV ISREC, Station 19, CH-1015 Lausanne and Department des Sciences Biomédicales, UNIL – Université de Lausanne, Rue du Bugnon 27, CH-1011 Lausanne	Quartier UNIL-CHUV, Rue du Bugnon 7, 1005 Lausanne	   
+                                                                                                                             
+Study Person ORCID	0000-0003-3434-0022	0000-0003-2136-0462     
+                                                                                                                           
+Study Person Roles	submitter	submitter
+                                                                                                                            
+                                                                                                                                    
+# Study License and Data DOI    
+                                                                                                                                
+Study License	CC BY 4.0 
+                                                                                                                              
+Study License URL	https://creativecommons.org/licenses/by/4.0/   
+                                                                                                                             
+Study Copyright	Tratwal et al     
+                                                                                       
+Study Data Publisher	University of Dundee
+                                                                                                                               
+Study Data DOI	                                                                                                                               
+                                                                                                                                    
+Term Source Name    NCBITaxon    EFO    CMPO    FBbi                                                                                                                    
+Term Source URI    http://purl.obolibrary.org/obo/    http://www.ebi.ac.uk/efo/    http://www.ebi.ac.uk/cmpo/    http://purl.obolibrary.org/obo/                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+# EXPERIMENT SECTION                                                                                                                                    
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment                                                                                                                                    
+                                                                                                                                    
+Experiment Number	1
+                                                                                                                                
+Comment[IDR Experiment Name]	idr0096-tratwal-marrowquant/experimentA  
+
+Experiment Sample Type	tissue
+                                                                                                                             
+Experiment Description	
+                                                                                                                         
+Experiment Size    5D Images:     Average Image Dimension (XYZCT): X:10000, Y:10000, Z:1, C:3 (RGB), T:1    Total Tb: 0.90Tb   
+                                                                                                             
+Experiment Example Images    
+                                                                                                                                
+Experiment Imaging Method	bright-field microscopy	  
+                                                                                                                               
+Experiment Imaging Method Term Source REF	Fbbi      
+                                                                                                                          
+Experiment Imaging Method Term Accession	FBbi_00000243  
+
+Experiment Organism	Mus musculus									
+Experiment Organism Term Source REF	NCBITaxon												
+Experiment Organism Term Accession	10090
+                                                                                                                           
+Experiment Comments	Automated Whole slide Scanning Microscope (Olympus VS-120) in bright-field mode (RGB camera) and 20x/0.75 air Objective. 
+                                                                                                      
+                                                                                                                                    
+# assay files        
+                                                                                                                            
+Experiment Assay File       
+                                                                                                                            
+Experiment Assay File Format	tab-delimited text  
+                                                                                                                              
+Assay Experimental Conditions    
+                                                                                                                                
+Assay Experimental Conditions Term Source REF 
+                                                                                                                                  
+Assay Experimental Conditions Term Accession    
+                                                                                                                              
+Quality Control Description    
+                                                                                                                                
+                                                                                                                                    
+# Protocols        
+                                                                                                                            
+Protocol Name	growth protocol    treatment protocol    image acquisition and feature extraction protocol    data analysis protocol 
+                                                                                                                   
+Protocol Type	growth protocol    treatment protocol    image acquisition and feature extraction protocol    data analysis protocol  
+                                                                                                                  
+Protocol Type Term Source REF	EFO    EFO    
+                                                                                                                        
+Protocol Type Term Accession	EFO_0003789    EFO_0003969   
+                                                                                                                         
+Protocol Description    
+                                                                                                             
+                                                                                                                                    
+# Phenotypes     
+                                                                                                                               
+Phenotype Name    
+                                                                                                                              
+Phenotype Description    
+                                                                                                                                
+Phenotype Score Type    
+                                                                                                                                
+Phenotype Term Source REF	CMPO  
+                                                                                                                              
+Phenotype Term Name    
+                                                                                                       
+Phenotype Term Accession    
+                                                                                                                             
+                                                                                                                                    
+# Feature Level Data Files (give individual file details unless there is one file per well)                   
+                                                                                                                 
+Feature Level Data File Name    
+                                                                                                                               
+Feature Level Data File Format    
+                                                                                                                             
+Feature Level Data File Description    
+                                                                                                                                
+Feature Level Data Column Name    
+                                                                                                                                
+Feature Level Data Column Description    
+                                                                                                                                
+                                                                                                                                    
+#  Processed Data Files   
+                                                                                                                                  
+Processed Data File Name	idr0096-experimentA-processed		
+                                                                                                                               
+Processed Data File Format	tab-delimited text     
+                                                                                                                               
+Processed Data File Description	A QuPath project with the resulting regions detected for each image overlaid on the original data, as well as statistics associated with each region.    
+                                                                                                                        
+Processed Data Column Name    
+                                                                                                                               
+Processed Data Column Type    
+                                                                                                                               
+Processed Data Column Annotation Level    
+                                                                                                              
+Processed Data Column Description    
+                                                                                                                               
+Processed Data Column Link To Assay File    
+                                   
+
+
+Experiment Number	2           
+                                                                                                                     
+Comment[IDR Experiment Name]	idr0096-tratwal-marrowquant/experimentB
+
+Experiment Sample Type	tissue
+                                                                                                                                
+Experiment Description	
+                                                                                                                                
+Experiment Size    5D Images:     Average Image Dimension (XYZCT): X:10000, Y:10000, Z:1, C:3 (RGB), T:1     Total Tb:         
+                                                                                                              
+Experiment Example Images    
+                                                                                                                                
+Experiment Imaging Method	bright-field microscopy	  
+                                                                                                                               
+Experiment Imaging Method Term Source REF	Fbbi      
+                                                                                                                          
+Experiment Imaging Method Term Accession	FBbi_00000243    
+
+Experiment Organism	Homo sapiens										
+Experiment Organism Term Source REF	NCBITaxon										
+Experiment Organism Term Accession	9606	                                                       
+                                                                                                                              
+Experiment Comments	Automated Whole slide Scanning Microscope (Olympus VS-120) in brightfield mode (RGB camera) and 20x/0.75 air Objective.
+                                                                       
+
+# assay files            
+                                                                                                                        
+Experiment Assay File	              
+                                                                                                                 
+Experiment Assay File Format	tab-delimited text   
+                                                                                                                             
+Assay Experimental Conditions              
+                                                                                                                      
+Assay Experimental Conditions Term Source REF    
+                                                                                                                                
+Assay Experimental Conditions Term Accession  
+                                                                                                                               
+Quality Control Description   
+                                                                                                                               
+                                                                                                                                    
+# Protocols                                                                                                                                    
+Protocol Name	growth protocol    treatment protocol    image acquisition and feature extraction protocol    data analysis protocol   
+                                                                                                                 
+Protocol Type	growth protocol    treatment protocol    image acquisition and feature extraction protocol    data analysis protocol  
+                                                                                                                  
+Protocol Type Term Source REF	EFO    EFO  
+                                                                                                                          
+Protocol Type Term Accession	EFO_0003789    EFO_0003969   
+                                                                                                                         
+Protocol Description    
+                                                                                                              
+                                                                                                                                    
+# Phenotypes        
+                                                                                                                            
+Phenotype Name    
+                                                                                                                             
+Phenotype Description    
+                                                                                                                                
+Phenotype Term Source REF	CMPO 
+                                                                                                                               
+Phenotype Term Name   
+                                                                                                                                
+Phenotype Term Accession                                                                                                                                   
+                                                                                                                                    
+                                                                                                                                    
+# Feature Level Data Files (give individual file details unless there is one file per well)             
+                                                                                                                       
+Feature Level Data File Name    
+                                                                                                                               
+Feature Level Data File Format   
+                                                                                                                                
+Feature Level Data File Description    
+                                                                                                                             
+Feature Level Data Column Name    
+                                                                                                                               
+Feature Level Data Column Description    
+                                                                                                                                
+                                                                                                                                    
+#  Processed Data Files 
+                                                                                                                                    
+Processed Data File Name
+	                                                                                                                               
+Processed Data File Format	tab-delimited text   
+                                                                                                                             
+Processed Data File Description	A QuPath project with the resulting regions detected for each image overlaid on the original data, as well as statistics associated with each region.
+                                                                                                                              
+Processed Data Column Name    
+                                                                                                                                
+Processed Data Column Type    
+                                                                                                                               
+Processed Data Column Annotation Level    
+                                                                                                               
+Processed Data Column Description    
+                                                                                                                               
+Processed Data Column Link To Assay File    
