@@ -85,7 +85,7 @@ Comment[IDR Experiment Name]	idr0096-tratwal-marrowquant/experimentA
 
 Experiment Sample Type	tissue
                                                                                                                              
-Experiment Description	
+Experiment Description	MarrowQuant, a digital and quantitative pathology tool was used to quantify the different compartments within the bone marrow at different conditions, mainly aplasia and aging conditions. By using our tool, we can compare the skeletal map induced by lethal irradiation(aplasia), with longitudinal quantification of the “red-to-yellow-to-red” transition over 2 months (aging) in C57BL/6 mouse femurs and tibiae. 	
                                                                                                                          
 Experiment Size    5D Images:     Average Image Dimension (XYZCT): X:10000, Y:10000, Z:1, C:3 (RGB), T:1    Total Tb: 0.90Tb   
                                                                                                              
@@ -186,7 +186,7 @@ Comment[IDR Experiment Name]	idr0096-tratwal-marrowquant/experimentB
 
 Experiment Sample Type	tissue
                                                                                                                                 
-Experiment Description	
+Experiment Description	Away from the Mouse H&E quantification, the current version of MarrowQuant was tested on a small set of H&E bone marrow biopsies from anonymised patients. The tools performs in a comparable way as compared to the gold standard (Pathologists’ scorings), but it needs many optimisations before validating at the level of the human bone marrow biopsies quantifications and in clinical context. 
                                                                                                                                 
 Experiment Size    5D Images:     Average Image Dimension (XYZCT): X:10000, Y:10000, Z:1, C:3 (RGB), T:1     Total Tb:         
                                                                                                               
