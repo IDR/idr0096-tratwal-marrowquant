@@ -186,7 +186,7 @@ Comment[IDR Experiment Name]	idr0096-tratwal-marrowquant/experimentB
 
 Experiment Sample Type	tissue
                                                                                                                                 
-Experiment Description	Away from the Mouse H&E quantification, the current version of MarrowQuant was tested on a small set of H&E bone marrow biopsies from anonymised patients. The tools performs in a comparable way as compared to the gold standard (Pathologists’ scorings), but it needs many optimisations before validating at the level of the human bone marrow biopsies quantifications and in clinical context. 
+Experiment Description	Away from the Mouse H&E quantification, the current version of MarrowQuant was tested on a small set of H&E bone marrow biopsies from anonymised patients. The tool performs in a comparable way as compared to the gold standard (Pathologists’ scorings), but it needs many optimisations before validating at the level of the human bone marrow biopsies quantifications and in clinical context. 
                                                                                                                                 
 Experiment Size    5D Images:     Average Image Dimension (XYZCT): X:10000, Y:10000, Z:1, C:3 (RGB), T:1     Total Tb:         
                                                                                                               
